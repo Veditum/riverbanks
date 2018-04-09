@@ -1,0 +1,16 @@
+{
+  "name": "sand-mining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ganga-buffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/sphericalmercator": "^1.0.5",
+    "@mapbox/tilebelt": "^1.0.1",
+    "turf": "^3.0.14"
+  }
+}
